@@ -1,7 +1,7 @@
 name: talk_core
 description: Core Library for Talk.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Chandram-Dutta/talk_core
 
 environment:
   sdk: ^3.3.2
