@@ -1,0 +1,4 @@
+enum Sender {
+  user,
+  ai,
+}
